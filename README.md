@@ -30,9 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
