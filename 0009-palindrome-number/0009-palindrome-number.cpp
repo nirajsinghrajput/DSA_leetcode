@@ -1,25 +1,14 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x < 0){
-            return false;
-        }
-        vector<int> arr;
-        int rem;
+        if(x < 0) return false;
+        long long dumX = x;
+        long long dummy = 0;
         while(x!=0){
-            rem = x%10;
+            dummy = dummy*10 + x%10;
             x = x/10;
-            arr.push_back(rem);
         }
-        int i = 0;
-        int j = arr.size() - 1;
-        while(!(i>=j)){
-            if(arr[i] != arr[j]){
-                return false;
-            }
-            i++;
-            j--;
-        }
+        if(dummy != dumX) return false;
         return true;
     }
 };
