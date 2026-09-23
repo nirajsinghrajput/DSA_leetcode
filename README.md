@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0012-integer-to-roman) |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0012-integer-to-roman) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
