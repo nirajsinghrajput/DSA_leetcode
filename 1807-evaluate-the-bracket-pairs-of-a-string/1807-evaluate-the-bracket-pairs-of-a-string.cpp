@@ -13,11 +13,12 @@ public:
             string word = s.substr(start+1, end - start - 1);
             if(mpp.find(word) != mpp.end()) {
                 s.replace(start, end - start + 1, mpp[word]);
+                start += mpp[word].length();
             }
             else {
                 s.replace(start, end - start + 1, "?");
+                start += 1;
             }
-            //start += word.length();
         }
         return s;
     }
