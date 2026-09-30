@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0136-single-number) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
