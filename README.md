@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
