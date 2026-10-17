@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0053-maximum-subarray) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
