@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2235-add-two-integers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
