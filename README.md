@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0016-3sum-closest) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
