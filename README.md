@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2235-add-two-integers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3270-find-the-key-of-the-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3270-find-the-key-of-the-numbers) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0016-3sum-closest) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
