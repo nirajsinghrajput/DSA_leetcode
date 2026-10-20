@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
