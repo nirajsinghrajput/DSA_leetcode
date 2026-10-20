@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1470-shuffle-the-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
