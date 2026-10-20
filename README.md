@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2235-add-two-integers) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3270-find-the-key-of-the-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
