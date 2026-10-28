@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
+| [0383-ransom-note](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0856-score-of-parentheses) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0383-ransom-note) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
