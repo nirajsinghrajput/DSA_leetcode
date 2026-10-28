@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2409-count-days-spent-together) |
