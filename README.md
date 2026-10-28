@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2235-add-two-integers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2235-add-two-integers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
+| [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
