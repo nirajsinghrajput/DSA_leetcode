@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
