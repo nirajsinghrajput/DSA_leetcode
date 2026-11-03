@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0443-string-compression) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0229-majority-element-ii) |
