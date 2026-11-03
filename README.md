@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0836-rectangle-overlap) |
