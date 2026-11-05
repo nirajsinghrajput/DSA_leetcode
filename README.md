@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0066-plus-one) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0067-add-binary) |
@@ -335,5 +337,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
