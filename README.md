@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0189-rotate-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0725-split-linked-list-in-parts](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nirajsinghrajput/DSA_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0383-ransom-note) |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
