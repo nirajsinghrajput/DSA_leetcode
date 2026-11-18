@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2409-count-days-spent-together) |
+| [3110-score-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
