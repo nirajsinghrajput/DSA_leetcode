@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3945-digit-frequency-score](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3945-digit-frequency-score) |
 ## Geometry
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3945-digit-frequency-score](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
