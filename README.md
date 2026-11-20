@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2942-find-words-containing-character](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2409-count-days-spent-together) |
+| [2942-find-words-containing-character](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3498-reverse-degree-of-a-string) |
