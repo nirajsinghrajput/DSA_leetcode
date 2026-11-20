@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
