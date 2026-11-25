@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
