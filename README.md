@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2469-convert-the-temperature) |
 | [3270-find-the-key-of-the-numbers](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3270-find-the-key-of-the-numbers) |
+| [3360-stone-removal-game](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [3360-stone-removal-game](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/nirajsinghrajput/DSA_leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
